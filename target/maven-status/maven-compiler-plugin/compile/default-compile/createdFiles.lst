@@ -1,0 +1,13 @@
+com/example/demo/service/IGithubService.class
+com/example/demo/model/BranchFoldersResponse.class
+com/example/demo/model/CloneBranchRequest.class
+com/example/demo/model/PushNewBranchRequestModel.class
+com/example/demo/service/impl/GithubServiceImpl.class
+com/example/demo/model/RepositoryRequest$RepositoryRequestBuilder.class
+com/example/demo/model/BranchFolderRequest$BranchFolderRequestBuilder.class
+com/example/demo/model/BranchRequest.class
+com/example/demo/DemoApplication.class
+com/example/demo/controller/githubController.class
+com/example/demo/model/RepositoryRequest.class
+com/example/demo/model/BranchFolderRequest.class
+com/example/demo/model/BranchResponse.class
